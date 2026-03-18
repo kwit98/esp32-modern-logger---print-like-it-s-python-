@@ -91,5 +91,5 @@ Library must be compiled with C++17 or newer.
 ```ini
 ;platformio.ino
 build_unflags = -std = gnu++ 11 
-build_flags = -std = gnu++ 2
+build_flags = -std = gnu++ 21
 ```
